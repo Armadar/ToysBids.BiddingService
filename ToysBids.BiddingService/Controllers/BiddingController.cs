@@ -9,6 +9,7 @@ using ToysBids.BiddingService.Models;
 
 namespace ToysBids.BiddingService.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class BiddingController : ControllerBase
@@ -17,6 +18,11 @@ namespace ToysBids.BiddingService.Controllers
         [HttpPost("bidding")]
         public async Task<ActionResult<Auction>> Bidding([FromBody] Auction auction)
         {
+            if (!Request.Headers.ContainsKey("Authorization"))
+            {
+                return BadRequest(new { message = "You shall not pass" });
+            }
+
             Auction result = new Auction() { MinimumAmount = auction.MinimumAmount + 1000, auctionBundleId = 1000 };
             //var exchange = await _context.Publication.FindAsync(id);
 
