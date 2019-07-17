@@ -5,11 +5,13 @@ using System.Threading.Tasks;
 using Armadar.Services.Helpers;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using ToysBids.BiddingService.Data;
 
 namespace ToysBids.BiddingService
 {
@@ -32,6 +34,9 @@ namespace ToysBids.BiddingService
             var key = SettingsHelper.getKey(Configuration, services);
 
             JWTHelper.SetAuthentication(services, key);
+
+            services.AddDbContext<BiddingContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("DevConnection")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -2,6 +2,9 @@ C:\Users\Jesus Alvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingServi
 C:\Users\Jesus Alvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\bin\Debug\netcoreapp2.2\ToysBids.BiddingService.runtimeconfig.json
 C:\Users\Jesus Alvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\bin\Debug\netcoreapp2.2\ToysBids.BiddingService.runtimeconfig.dev.json
 C:\Users\Jesus Alvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\bin\Debug\netcoreapp2.2\ToysBids.BiddingService.dll
+C:\Users\Jesus Alvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\bin\Debug\netcoreapp2.2\ToysBids.BiddingService.pdb
+C:\Users\Jesus Alvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\bin\Debug\netcoreapp2.2\Armadar.Services.Helpers.dll
+C:\Users\Jesus Alvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\bin\Debug\netcoreapp2.2\Armadar.Services.Helpers.pdb
 C:\Users\Jesus Alvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\obj\Debug\netcoreapp2.2\ToysBids.BiddingService.csprojAssemblyReference.cache
 C:\Users\Jesus Alvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\obj\Debug\netcoreapp2.2\ToysBids.BiddingService.csproj.CoreCompileInputs.cache
 C:\Users\Jesus Alvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\obj\Debug\netcoreapp2.2\ToysBids.BiddingService.RazorAssemblyInfo.cache
@@ -9,23 +12,6 @@ C:\Users\Jesus Alvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingServi
 C:\Users\Jesus Alvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\obj\Debug\netcoreapp2.2\ToysBids.BiddingService.AssemblyInfoInputs.cache
 C:\Users\Jesus Alvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\obj\Debug\netcoreapp2.2\ToysBids.BiddingService.AssemblyInfo.cs
 C:\Users\Jesus Alvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\obj\Debug\netcoreapp2.2\ToysBids.BiddingService.RazorTargetAssemblyInfo.cache
-C:\Users\Jesus Alvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\bin\Debug\netcoreapp2.2\ToysBids.BiddingService.pdb
+C:\Users\Jesus Alvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\obj\Debug\netcoreapp2.2\ToysBids.BiddingService.csproj.CopyComplete
 C:\Users\Jesus Alvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\obj\Debug\netcoreapp2.2\ToysBids.BiddingService.dll
 C:\Users\Jesus Alvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\obj\Debug\netcoreapp2.2\ToysBids.BiddingService.pdb
-C:\Users\jalvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\bin\Debug\netcoreapp2.2\ToysBids.BiddingService.deps.json
-C:\Users\jalvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\bin\Debug\netcoreapp2.2\ToysBids.BiddingService.runtimeconfig.json
-C:\Users\jalvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\bin\Debug\netcoreapp2.2\ToysBids.BiddingService.runtimeconfig.dev.json
-C:\Users\jalvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\bin\Debug\netcoreapp2.2\ToysBids.BiddingService.dll
-C:\Users\jalvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\bin\Debug\netcoreapp2.2\ToysBids.BiddingService.pdb
-C:\Users\jalvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\bin\Debug\netcoreapp2.2\Armadar.Services.Helpers.dll
-C:\Users\jalvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\bin\Debug\netcoreapp2.2\Armadar.Services.Helpers.pdb
-C:\Users\jalvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\obj\Debug\netcoreapp2.2\ToysBids.BiddingService.csprojAssemblyReference.cache
-C:\Users\jalvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\obj\Debug\netcoreapp2.2\ToysBids.BiddingService.csproj.CoreCompileInputs.cache
-C:\Users\jalvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\obj\Debug\netcoreapp2.2\ToysBids.BiddingService.RazorAssemblyInfo.cache
-C:\Users\jalvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\obj\Debug\netcoreapp2.2\ToysBids.BiddingService.RazorAssemblyInfo.cs
-C:\Users\jalvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\obj\Debug\netcoreapp2.2\ToysBids.BiddingService.AssemblyInfoInputs.cache
-C:\Users\jalvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\obj\Debug\netcoreapp2.2\ToysBids.BiddingService.AssemblyInfo.cs
-C:\Users\jalvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\obj\Debug\netcoreapp2.2\ToysBids.BiddingService.RazorTargetAssemblyInfo.cache
-C:\Users\jalvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\obj\Debug\netcoreapp2.2\ToysBids.BiddingService.csproj.CopyComplete
-C:\Users\jalvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\obj\Debug\netcoreapp2.2\ToysBids.BiddingService.dll
-C:\Users\jalvino\source\repos\ToysBids.BiddingService\ToysBids.BiddingService\obj\Debug\netcoreapp2.2\ToysBids.BiddingService.pdb
